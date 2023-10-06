@@ -46,5 +46,7 @@ public class TextFileScannerDemo {
         System.out.println(line);
 
         inputStream.close();
+        System.out.println("This is for commiting to github");
+        System.out.println("This is for commiting to github");
     }
 }
